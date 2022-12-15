@@ -99,7 +99,7 @@ class Auth extends BaseController
                     'no_hp' => $user['no_hp'],
                     'profile_photo_url' => 'https://ui-avatars.com/api/?name=' . $user['username'] . '&background=0D8ABC&color=fff',
                     'nim' => $user['nim'],
-                    'kelas_id' => intval($user['kelas_id']),
+                    'kelas_id' =>$user['kelas_id'],
                     'roles' => $role['name'],
                 ]
             ],

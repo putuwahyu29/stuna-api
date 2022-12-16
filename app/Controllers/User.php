@@ -108,7 +108,7 @@ class User extends ResourceController
                             'alamat' => $user['alamat'],
                             'no_hp' => $user['no_hp'],
                             'nim' => $user['nim'],
-                            'profile_photo_url' => 'https://ui-avatars.com/api/?name=a&color=7F9CF5&background=EBF4FF'
+                            'profile_photo_url' => 'https://ui-avatars.com/api/?name=' . $user['username'] . '&background=0D8ABC&color=fff'
                         ]
                     ];
                 } else {

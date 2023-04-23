@@ -1,5 +1,15 @@
 # Dokumentasi Stuna API
 
+## Description
+
+This is a RESTful API for Stuna App. This API is made with PHP and Codeigniter 4 framework.
+
+## Screenshots
+
+![1](docs/1.png)
+![2](docs/2.png)
+![3](docs/3.png)
+
 ## Tentang
 
 Kode ini dibawah lisensi MIT. Silahkan baca [Lisensi](license.txt) untuk informasi lebih lanjut.
@@ -30,6 +40,3 @@ Silahkan ikuti langkah-langkah berikut untuk menginstall Stuna API.
 2. Gunakan rest client untuk mengakses API. Contoh: [Postman](https://www.postman.com/)
 3. Cek dokumentasi endpoint Stuna API dengan mengimport file [stuna-api.postman_collection.json](tambahan/Stuna.postman_collection.json) ke Postman
 4. Selain itu terdapat juga file yaml [stuna-api.openapi_collection.yaml](tambahan/Stuna.openapi_collection.yaml) yang bisa digunakan untuk Swagger Editor
-
-
-

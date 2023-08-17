@@ -27,7 +27,7 @@ Silahkan ikuti langkah-langkah berikut untuk menginstall Stuna API.
 5. Buat database baru untuk Stuna API
 6. Isi konfigurasi database di file `.env`
 7. Jalankan perintah `php spark migrate:refresh`
-8. Jalankan perintah `php spark db:seed RoleSeeder`
+8. Jalankan perintah `php spark db:seed RoleSeder`
 9. Jalankan perintah `php spark db:seed KelasSeeder`
 10. Jalankan perintah `php spark db:seed AuthSeeder`
 11. Jalankan perintah `php spark db:seed UserSeeder`

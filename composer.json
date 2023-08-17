@@ -27,11 +27,6 @@
       "Tests\\Support\\": "tests/_support"
     }
   },
-  "autoload-dev": {
-    "psr-4": {
-      "Tests\\Support\\": "tests/_support"
-    }
-  },
   "scripts": {
     "test": "phpunit"
   },
